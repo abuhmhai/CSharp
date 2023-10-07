@@ -1,0 +1,6 @@
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/bin/Debug/ex1.exe
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/bin/Debug/ex1.pdb
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Debug/ex1.csproj.AssemblyReference.cache
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Debug/ex1.csproj.CoreCompileInputs.cache
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Debug/ex1.exe
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Debug/ex1.pdb

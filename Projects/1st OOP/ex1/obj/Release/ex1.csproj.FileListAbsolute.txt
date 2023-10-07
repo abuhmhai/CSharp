@@ -1,0 +1,10 @@
+C:/C#/Introduction/Console/ex1/bin/Release/ex1.exe
+C:/C#/Introduction/Console/ex1/bin/Release/ex1.pdb
+C:/C#/Introduction/Console/ex1/obj/Release/ex1.exe
+C:/C#/Introduction/Console/ex1/obj/Release/ex1.pdb
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/bin/Release/ex1.exe
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/bin/Release/ex1.pdb
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Release/ex1.csproj.AssemblyReference.cache
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Release/ex1.csproj.CoreCompileInputs.cache
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Release/ex1.exe
+/Users/macbookprom1/Desktop/OOP/1st OOP/ex1/obj/Release/ex1.pdb

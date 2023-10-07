@@ -1,0 +1,15 @@
+/Users/macbookprom1/Desktop/C#/ex2/ex2/bin/Debug/net7.0/ex2
+/Users/macbookprom1/Desktop/C#/ex2/ex2/bin/Debug/net7.0/ex2.deps.json
+/Users/macbookprom1/Desktop/C#/ex2/ex2/bin/Debug/net7.0/ex2.runtimeconfig.json
+/Users/macbookprom1/Desktop/C#/ex2/ex2/bin/Debug/net7.0/ex2.dll
+/Users/macbookprom1/Desktop/C#/ex2/ex2/bin/Debug/net7.0/ex2.pdb
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.csproj.AssemblyReference.cache
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.AssemblyInfoInputs.cache
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.AssemblyInfo.cs
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.csproj.CoreCompileInputs.cache
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.dll
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/refint/ex2.dll
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.pdb
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
+/Users/macbookprom1/Desktop/C#/ex2/ex2/obj/Debug/net7.0/ref/ex2.dll
